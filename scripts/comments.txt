@@ -1,3 +1,6 @@
 /*
 Everything in between is a comment.
 */
+
+<!-- The above was how html used to be commented out 
+this is how it is done now. -->

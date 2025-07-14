@@ -1,2 +1,2 @@
 let myHeading = document.querySelector('h1');
-myHeading.textContent = 'BIT115 Project';
+myHeading.textContent = 'PNW WA Subies';
